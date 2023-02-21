@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+IN PROGRESS...
+
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubzaddi&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubzaddi&langs_count=8&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+|:-:|:-:|
+
+
 <!--
 **ayoubzaddi/ayoubzaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
